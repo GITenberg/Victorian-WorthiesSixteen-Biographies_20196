@@ -1,0 +1,35 @@
+_repo: Victorian-WorthiesSixteen-Biographies_20196
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blore, George Henry
+    birthdate: 1870
+    gutenberg_agent_id: '9145'
+    url: http://www.gutenberg.org/2009/agents/9145
+description: ''
+gutenberg_issued: '2006-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20196'
+  lccn: '21006261'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Great Britain -- Intellectual life -- 19th century'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901 -- Biography'
+- !lcsh 'Great Britain -- Biography'
+tableOfContents: 'Introduction: The Victorian era -- Thomas Carlyle, prophet -- Sir
+  Robert Peel, statesman -- Sir Charles Napier, soldier -- The Earl of Shaftesbury,
+  philanthropist -- Lord Lawrence, administrator -- John Bright, tribune -- Charles
+  Dickens, novelist and social reformer -- Lord Tennyson, poet -- Charles Kingsley,
+  parish priest -- George Frederick Watts, artist -- Bishop Patteson, missionary --
+  Sir Robert Morier, diplomatist -- Lord Lister, surgeon -- William Morris, craftsman
+  -- John Richard Green, historian -- Cecil Rhodes, colonist -- Index.'
+title: 'Victorian Worthies: Sixteen Biographies'
+url: http://www.gutenberg.org/ebooks/20196
